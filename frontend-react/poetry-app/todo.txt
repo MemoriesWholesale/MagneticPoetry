@@ -1,0 +1,9 @@
+
+add styling
+
+display with thematic coloring according to sentiment analysis of poem?
+
+tweak the word generation algorithm to make it better.
+add user input controls to allow user to get words about a particular topic?
+
+toast notifications

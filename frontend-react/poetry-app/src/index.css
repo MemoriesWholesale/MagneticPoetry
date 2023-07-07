@@ -1,0 +1,11 @@
+#brand{
+    font-family:Palatino serif;
+    font-size: 30px;
+    border-radius: 5px;
+    text-decoration:underline;
+    -webkit-text-fill-color: cadetblue;
+    background: -webkit-linear-gradient(rgb(201, 155, 224), rgb(228, 17, 17));
+    background-clip:content-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
